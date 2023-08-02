@@ -9,4 +9,8 @@
 <li>👉Bootstrap</li>
 
 
-### All rights reserved by Md Shah Jalal.![md shah jalal](md-shah-jalal-farabi.jpg)
+### All rights reserved by Md Shah Jalal.
+
+
+<img src="https://raw.githubusercontent.com/ProgrammerShahJalal/Django-exam/main/md-shah-jalal-farabi.jpg" alt="md shah jalal" width="300">
+
