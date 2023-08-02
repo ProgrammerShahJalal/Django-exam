@@ -3,9 +3,10 @@
 ![Django project preview](My-Django-App.png)
 
 ## Programming Technologies
-👉Python
-👉HTML
-👉CSS
-👉Bootstrap
+<li>👉Python</li>
+<li>👉HTML</li>
+<li>👉CSS</li>
+<li>👉Bootstrap</li>
 
-All rights reserved by Md Shah Jalal.
+
+### All rights reserved by Md Shah Jalal.![md shah jalal](md-shah-jalal-farabi.jpg)
